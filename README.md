@@ -11,3 +11,4 @@ categorization process. It integrates with external credit score APIs, introduce
 workflows, and provides real-time dashboards to track loan performance and risk categories. This
 ensures faster decisions, better compliance, and improved customer experience.
 
+Bank loan application.pdf
